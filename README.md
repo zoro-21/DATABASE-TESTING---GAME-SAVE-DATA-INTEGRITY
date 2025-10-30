@@ -1,5 +1,5 @@
-# DATABASE-TESTING---GAME-SAVE-DATA-INTEGRITY
-(SQLite)
+# DATABASE-TESTING---GAME-SAVE-DATA-INTEGRITY BY SQLITE
+
 This project demonstrates automated integrity checks for saved game data.
 
 ## Why SQLite?
